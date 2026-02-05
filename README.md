@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Jayson Quisquirin
+# 👋 Hi, I’m Jayson Quisquirin
 🎓 BSIT Graduate | 🚀 Full Stack Developer
 
 I enjoy working across the stack—from crafting clean, responsive frontends to designing reliable
