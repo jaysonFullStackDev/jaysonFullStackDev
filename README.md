@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I’m Jayson Quisquirin
+🎓 BSIT Graduate | 🚀 Full Stack Developer
 
+I enjoy working across the stack—from crafting clean, responsive frontends to designing reliable
+backend systems and databases.I’m especially interested in building tools that solve real-world 
+problems and improve workflows.
 
-**jaysonFullStackDev/jaysonFullStackDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## 🧠 What I Do
 
-Here are some ideas to get you started:
+🌐 Build full-stack web and desktop applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🛠️ Design and manage databases & backend logic
 
+🎨 Create intuitive UI/UX experiences
+
+🔍 Continuously learn and improve my craft
