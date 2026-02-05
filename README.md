@@ -14,3 +14,13 @@ problems and improve workflows.
 🎨 Create intuitive UI/UX experiences
 
 🔍 Continuously learn and improve my craft
+
+## 📌 Current Focus
+
+Improving system architecture and code quality
+
+Building real-world projects with clean, maintainable code
+
+Expanding full-stack and backend expertise
+
+*💡 Always learning. Always building.*
