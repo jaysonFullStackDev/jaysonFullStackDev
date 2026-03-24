@@ -19,3 +19,5 @@ problems and improve workflows.
 * Expanding full-stack and backend expertise
 
 *💡 Always learning. Always building.*
+
+https://github.com/jaysonFullStackDev/jaysonFullStackDev/blob/output/github-contribution-grid-snake-dark.svg?raw=true
