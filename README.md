@@ -20,4 +20,12 @@ problems and improve workflows.
 
 *💡 Always learning. Always building.*
 
-<img src="https://streak-stats.demolab.com?user=jaysonFullStackDev&theme=tokyonight" />
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jaysonFullStackDev&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/jaysonFullStackDev/jaysonFullStackDev/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
+</p>
