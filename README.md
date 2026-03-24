@@ -20,4 +20,6 @@ problems and improve workflows.
 
 *💡 Always learning. Always building.*
 
-https://github.com/jaysonFullStackDev/jaysonFullStackDev/blob/output/github-contribution-grid-snake-dark.svg?raw=true
+<p align="center">
+  <img src="https://github.com/jaysonFullStackDev/jaysonFullStackDev/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
+</p>
